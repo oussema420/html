@@ -1,3 +1,19 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap');
+
 #phr{
     color: red;
+}
+h1{
+    display: inline;
+}
+body{
+    font-family: 'Roboto';
+    background-color: aliceblue;
+}
+.titre{
+    width: 700px;
+}
+li{
+    color: rgb(61, 17, 131);
 }
